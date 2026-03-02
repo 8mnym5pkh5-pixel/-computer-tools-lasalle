@@ -2,3 +2,4 @@ https://github.com/8mnym5pkh5-pixel/-computer-tools-lasalle.git
 git config --global user.name "ilia"
 git config --global user.email "wearesticksy@gmail.com"
 ilia
+rey
